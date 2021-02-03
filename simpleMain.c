@@ -14,7 +14,7 @@ int main(int argc, char *argv[]){
   }
 
   N=argc-1;
-  N=argc-2
+  N=argc-2;
 
   int *a;
   a=(int*) malloc(sizeof(int)*N);
